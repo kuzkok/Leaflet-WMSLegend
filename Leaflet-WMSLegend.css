@@ -1,0 +1,12 @@
+.leaflet-wmslegend {
+    background: #ffffff;
+    padding: 2px;
+}
+.leaflet-wmslegend-label {
+    display: block;
+}
+.leaflet-wmslegend-image {
+    display: block;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
